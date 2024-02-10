@@ -28,5 +28,3 @@ Obtained accuracy of 0.9278350515463918.
 Constructed using the decision tree classifier from Scikit-learn.
 Achieved accuracy of 0.8900343642611683.
 
-**Conclusion:**
-The hobby prediction model demonstrates varying accuracies across different machine learning algorithms. Further optimization and fine-tuning of the models may be required to improve accuracy and generalize well to unseen data. Additionally, feature engineering and model selection techniques could be explored to enhance the model's predictive performance.
